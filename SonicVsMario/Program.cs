@@ -8,3 +8,4 @@ Sonic sonic = new Sonic();
 Mario mario = new Mario();
 
 sonic.Attack(mario);
+mario.Attack(sonic);

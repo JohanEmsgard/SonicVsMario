@@ -1,0 +1,15 @@
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\bin\Debug\net6.0\SonicVsMario.exe
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\bin\Debug\net6.0\SonicVsMario.deps.json
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\bin\Debug\net6.0\SonicVsMario.runtimeconfig.json
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\bin\Debug\net6.0\SonicVsMario.dll
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\bin\Debug\net6.0\SonicVsMario.pdb
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.dll
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\refint\SonicVsMario.dll
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.pdb
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\SonicVsMario.genruntimeconfig.cache
+C:\Users\emsgard.johan\Programering 2\SonicVsMario\SonicVsMario\obj\Debug\net6.0\ref\SonicVsMario.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj": {}
+    "C:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj": {
+    "C:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj",
+        "projectUniqueName": "C:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj",
         "projectName": "SonicVsMario",
-        "projectPath": "c:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj",
+        "projectPath": "C:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\SonicVsMario.csproj",
         "packagesPath": "C:\\Users\\emsgard.johan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\obj\\",
+        "outputPath": "C:\\Users\\emsgard.johan\\Programering 2\\SonicVsMario\\SonicVsMario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

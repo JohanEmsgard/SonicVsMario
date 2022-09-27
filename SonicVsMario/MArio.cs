@@ -6,7 +6,13 @@ public class Mario
 
     public int Mhp;
 
-    public int MarioAttack;
+    //public int MarioAttack;
+
+    public void Attack(Sonic target)
+    {
+        target.Shp -= 2;
+
+    }
 
 
 
