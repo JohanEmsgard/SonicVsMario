@@ -1,12 +1,13 @@
 using System;
 
-namespace SonicVsMario;
-
-public class MArio
+public class Mario
 {
     public string name;
 
-    public int hp;
+    public int Mhp;
 
-    
+    public int MarioAttack;
+
+
+
 }

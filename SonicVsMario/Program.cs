@@ -4,4 +4,7 @@ Console.WriteLine("Mario: Let's:a go");
 Console.ReadLine();
 
 
+Sonic sonic = new Sonic();
+Mario mario = new Mario();
 
+sonic.Attack(mario);

@@ -1,6 +1,5 @@
 using System;
 
-namespace SonicVsMario;
 
 public class Sonic
 {
@@ -8,5 +7,12 @@ public class Sonic
 
     public int speed;
 
-    public int hp;
+    public int Shp;
+
+    public void Attack(Mario target)
+    {
+        target.Mhp -= 3;
+    }
+
+
 }
