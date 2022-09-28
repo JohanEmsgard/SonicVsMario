@@ -7,7 +7,7 @@ public class Sonic
 
     public int speed;
 
-    public int Shp = 100;
+    public int Shp;
 
     private bool SonicAlive;
 
@@ -19,7 +19,7 @@ public class Sonic
     public void MW()
     {
         Shp--;
-        if (Shp == 0)
+        if (Shp <= 0)
         {
             Console.WriteLine("Sonic lost Mario wins");
             SonicAlive = false;
