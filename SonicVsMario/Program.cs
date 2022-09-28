@@ -10,6 +10,12 @@ int Shp = 100;
 
 int Mhp = 100;
 
+while(SonicAlive() == true)
+{
+    Console.Clear();
+
+}
+
 Console.WriteLine("Sonic and Mario Attack eachother");
 
 
