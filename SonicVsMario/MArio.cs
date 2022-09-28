@@ -4,7 +4,9 @@ public class Mario
 {
     public string name;
 
-    public int Mhp;
+    public int Mhp = 100;
+
+    private bool MarioAlive;
 
     //public int MarioAttack;
 
@@ -12,6 +14,16 @@ public class Mario
     {
         target.Shp -= 2;
 
+    }
+
+    public void SW()
+    {
+        Mhp --;
+        if (Mhp == 0)
+        {
+            Console.WriteLine("Mario lost Sonic wins");
+            MarioAlive = false;
+        }
     }
 
 
