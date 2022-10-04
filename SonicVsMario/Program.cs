@@ -6,9 +6,6 @@ Console.ReadLine();
 Sonic sonic = new Sonic();
 Mario mario = new Mario();
 
-int Shp = 100;
-
-int Mhp = 100;
 
 
 Console.WriteLine("Sonic and Mario Attack eachother");
