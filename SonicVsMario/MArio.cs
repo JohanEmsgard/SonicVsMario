@@ -18,8 +18,6 @@ public class Mario
 
     public void SW()
     {
-
-        if (Mhp <= 0)
         {
             Console.WriteLine("Mario lost Sonic wins");
             MarioAlive = false;
