@@ -3,9 +3,9 @@ using System;
 
 public class Sonic
 {
-    public string name;
+    public string name = "Sonic";
 
-    public int speed;
+    public int speed = 200;
 
     public int Shp = 100;
 
@@ -20,7 +20,7 @@ public class Sonic
     {
         {
             
-            Console.WriteLine("Sonic lost Mario wins");
+            Console.WriteLine($"Sonic lost Mario wins");
             SonicAlive = false;
         }
 

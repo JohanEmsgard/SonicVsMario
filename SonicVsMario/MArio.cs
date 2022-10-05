@@ -2,7 +2,9 @@ using System;
 
 public class Mario
 {
-    public string name;
+    public string name = "Mario";
+
+    public int Strength = 150;
 
     public int Mhp = 100;
 
@@ -19,7 +21,7 @@ public class Mario
     public void SW()
     {
         {
-            Console.WriteLine("Mario lost Sonic wins");
+            Console.WriteLine($"Mario lost Sonic wins");
             MarioAlive = false;
         }
     }
