@@ -10,6 +10,9 @@ Mario mario = new Mario();
 
 while (sonic.Shp > 0 && mario.Mhp > 0)
 {
+    Console.WriteLine($"{sonic.name}: HP:{sonic.Shp} Speed:{sonic.speed}|| {mario.name}: HP:{mario.Mhp} Strength:{mario.Strength}");
+
+
     Console.WriteLine("Sonic and Mario Attack eachother");
     sonic.Attack(mario);
     mario.Attack(sonic);
