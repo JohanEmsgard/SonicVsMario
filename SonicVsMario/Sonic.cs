@@ -16,6 +16,11 @@ public class Sonic
         target.Mhp -= 3;
     }
 
+    public void Run()
+    {
+        speed += 10;
+    }
+
      public void MW()
     {
         {
