@@ -7,7 +7,7 @@ public class Sonic
 
     public int speed;
 
-    public int Shp;
+    public int Shp = 100;
 
     private bool SonicAlive;
 
@@ -16,9 +16,10 @@ public class Sonic
         target.Mhp -= 3;
     }
 
-    public void MW()
+     public void MW()
     {
         {
+            
             Console.WriteLine("Sonic lost Mario wins");
             SonicAlive = false;
         }

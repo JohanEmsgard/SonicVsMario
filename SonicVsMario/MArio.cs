@@ -4,7 +4,7 @@ public class Mario
 {
     public string name;
 
-    public int Mhp;
+    public int Mhp = 100;
 
     private bool MarioAlive;
 
