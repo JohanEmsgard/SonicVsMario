@@ -6,7 +6,7 @@ public class Mario
 
     public int Strength = 150;
 
-    public int Mhp = 100;
+    public int Mhp{get; set;}
 
     private bool MarioAlive;
 

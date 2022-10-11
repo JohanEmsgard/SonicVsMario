@@ -5,9 +5,9 @@ public class Sonic
 {
     public string name = "Sonic";
 
-    public int speed = 200;
+    public int Speed{get; set;}
 
-    public int Shp = 100;
+    public int Shp{get; set;}
 
     private bool SonicAlive;
 
@@ -16,10 +16,10 @@ public class Sonic
         target.Mhp -= 3;
     }
 
-    public void Run()
-    {
-        speed += 10;
-    }
+    //public void Run()
+    //{
+        //speed += 10;
+    //}
 
      public void MW()
     {
