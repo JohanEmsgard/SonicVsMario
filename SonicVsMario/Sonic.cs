@@ -5,7 +5,26 @@ public class Sonic
 {
     public string name = "Sonic";
 
-    public int Speed{get; set;}
+
+    private int speed;
+
+    public int Speed
+    {
+        get
+        {
+            return speed;
+        }
+        set
+        {
+            speed = value;
+            if (speed < 0)
+            {
+                speed = 100;
+            }
+        }
+
+    }
+
 
     public int Shp{get; set;}
 
