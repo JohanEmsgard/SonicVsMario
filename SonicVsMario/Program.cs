@@ -27,6 +27,7 @@ while (sonic.Shp > 0 && mario.Mhp > 0)
     else if (mario.Mhp == 0)
     {
         Console.WriteLine($"{mario.SW}");
+        
 
     }
 
