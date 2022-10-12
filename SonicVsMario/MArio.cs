@@ -4,9 +4,42 @@ public class Mario
 {
     public string name = "Mario";
 
-    public int Strength = 150;
+    private int strength;
 
-    public int Mhp{get; set;}
+    public int Strength
+    {
+        get 
+        {
+            return Strength;
+        }
+        set
+        {
+            strength = value;
+            if (strength < 100)
+            strength = 120;
+
+        }
+    }
+
+    private int mhp;
+
+    public int Mhp
+    {
+        get
+        {
+             return mhp;
+
+        }
+        set
+        {
+            mhp = value;
+            if (mhp < 0)
+            {
+                mhp = 0;
+            }
+        }
+
+    }
 
     private bool MarioAlive;
 

@@ -17,7 +17,7 @@ public class Sonic
         set
         {
             speed = value;
-            if (speed < 0)
+            if (speed < 90)
             {
                 speed = 100;
             }
@@ -26,7 +26,25 @@ public class Sonic
     }
 
 
-    public int Shp{get; set;}
+    private int shp;
+    public int Shp
+    {
+        get
+        {
+            return shp;
+        } 
+        set 
+        {
+            shp = value;
+            if (shp < 0)
+            {
+                shp = 0;
+            }
+
+        }
+        
+
+    }
 
     private bool SonicAlive;
 
