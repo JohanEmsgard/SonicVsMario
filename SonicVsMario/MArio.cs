@@ -10,13 +10,13 @@ public class Mario
     private bool MarioAlive;
 
 
+    public int MarioAttack;
     public void Attack(Sonic target)
     {
         target.Shp -= 2;
 
     }
 
-    public int MarioAttack;
     public void SW()
     {
         {

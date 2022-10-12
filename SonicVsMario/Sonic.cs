@@ -5,6 +5,8 @@ public class Sonic
 {
     public string name = "Sonic";
 
+    public int SonicAttack;
+
     public void Attack(Mario target)
     {
         target.Mhp -= 3;
@@ -14,8 +16,8 @@ public class Sonic
     //{
         //speed += 10;
     //}
-
     private bool SonicAlive;
+
      public void MW()
     {
         {
